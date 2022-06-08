@@ -1,2 +1,2 @@
-NinjaZ:0.tcp.jp.ngrok.io:15440:0:0
+NinjaZ:00.tcp.jp.ngrok.io:12192:0:0
 
